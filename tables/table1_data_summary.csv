@@ -1,0 +1,10 @@
+Item,Value
+Source,ERA5 reanalysis via Open-Meteo Historical Weather API (models=era5)
+Grid point returned,"21.5° N, 39.25° E (elev. 12 m)"
+Period,"1940-01-01 to 2025-12-31 (local time, UTC+3)"
+Hourly records,"753,888"
+Missing direction / speed values,1 / 1
+Afternoon records (13:00-17:00),"157,060"
+"Afternoon mean speed, all years",6.08 m/s
+"Afternoon W-N (270-360°) share, all years",68.0%
+"All-hours W-N share, all years",55.9%

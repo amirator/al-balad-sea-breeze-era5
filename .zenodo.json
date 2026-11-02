@@ -1,0 +1,34 @@
+{
+  "title": "Is the Rawasheen's Breeze Still There? Afternoon Sea-Breeze Persistence over Historic Jeddah (Al-Balad), 1940–2025",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Working paper testing whether the afternoon west-to-north (onshore) wind that Historic Jeddah's rawasheen were designed to catch has changed between 1940 and 2025, using 753,888 hourly ERA5 records (via Open-Meteo) for the grid cell containing Al-Balad. About 68% of afternoon hours (13:00-17:00) have wind from 270-360 degrees; the share was 67.2% in 1940-1969 and 67.7% in 1996-2025, with no significant Mann-Kendall trend (tau = -0.050, p = 0.50). Results are robust across direction sectors and time windows. Limitations of the ~25 km reanalysis resolution are discussed. Code: https://github.com/amirator/al-balad-sea-breeze-era5",
+  "creators": [
+    {
+      "name": "Khan, Amir",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0008-5996-2841"
+    }
+  ],
+  "keywords": [
+    "Historic Jeddah",
+    "Al-Balad",
+    "rawshan",
+    "sea breeze",
+    "natural ventilation",
+    "ERA5",
+    "Mann-Kendall",
+    "Red Sea",
+    "vernacular architecture",
+    "climate heritage"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/amirator/al-balad-sea-breeze-era5",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ]
+}

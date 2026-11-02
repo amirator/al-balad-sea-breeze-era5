@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Is the Rawasheen's Breeze Still There? Afternoon Sea-Breeze Persistence over Historic Jeddah (Al-Balad), 1940–2025"
+type: software
+authors:
+  - family-names: Khan
+    given-names: Amir
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0008-5996-2841"
+date-released: 2026-11-02
+version: 1.0.0
+repository-code: "https://github.com/amirator/al-balad-sea-breeze-era5"
+license: MIT
+keywords: [Historic Jeddah, Al-Balad, rawshan, sea breeze, natural ventilation, ERA5, Mann-Kendall, Red Sea]
+preferred-citation:
+  type: report
+  title: "Is the Rawasheen's Breeze Still There? Afternoon Sea-Breeze Persistence over Historic Jeddah (Al-Balad), 1940–2025"
+  authors:
+    - family-names: Khan
+      given-names: Amir
+      affiliation: Independent Researcher
+      orcid: "https://orcid.org/0009-0008-5996-2841"
+  year: 2026
+  url: "https://github.com/amirator/al-balad-sea-breeze-era5"
+  notes: "Working paper (preprint). Zenodo DOI to be added."

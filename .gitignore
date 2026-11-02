@@ -1,0 +1,4 @@
+data/*.json
+data/osm_tiles/
+figures/rawasheen_source.jpg
+__pycache__/
