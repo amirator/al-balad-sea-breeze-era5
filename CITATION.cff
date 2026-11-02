@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0008-5996-2841"
 date-released: 2026-11-02
 version: 1.0.0
+doi: 10.5281/zenodo.23873911
 repository-code: "https://github.com/amirator/al-balad-sea-breeze-era5"
 license: MIT
 keywords: [Historic Jeddah, Al-Balad, rawshan, sea breeze, natural ventilation, ERA5, Mann-Kendall, Red Sea]
@@ -22,4 +23,5 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0008-5996-2841"
   year: 2026
   url: "https://github.com/amirator/al-balad-sea-breeze-era5"
-  notes: "Working paper (preprint). Zenodo DOI to be added."
+  doi: 10.5281/zenodo.23873911
+  notes: "Working paper (preprint)."

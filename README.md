@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23873911.svg)](https://doi.org/10.5281/zenodo.23873911)
+
 # Is the Rawasheen's Breeze Still There? Afternoon sea breeze over Historic Jeddah (Al-Balad), 1940–2025
 
 Working paper by **Amir Khan**, Independent Researcher ([ORCID 0009-0008-5996-2841](https://orcid.org/0009-0008-5996-2841)).
@@ -17,7 +19,7 @@ python code/build_docx.py
 ```
 
 ## Cite
-Khan, A. (2026). *Is the rawasheen's breeze still there? Afternoon sea-breeze persistence over Historic Jeddah (Al-Balad), 1940–2025* [Working paper]. https://github.com/amirator/al-balad-sea-breeze-era5 (Zenodo DOI: to be added). See `CITATION.cff`.
+Khan, A. (2026). *Is the rawasheen's breeze still there? Afternoon sea-breeze persistence over Historic Jeddah (Al-Balad), 1940–2025* [Working paper]. Zenodo. https://doi.org/10.5281/zenodo.23873911 (code: https://github.com/amirator/al-balad-sea-breeze-era5). See `CITATION.cff`.
 
 ## Licences
 - Code: MIT (`LICENSE`).

@@ -1,6 +1,6 @@
 % Is the Rawasheen's Breeze Still There? Afternoon Sea-Breeze Persistence over Historic Jeddah (Al-Balad), 1940–2025
 % Amir Khan, Independent Researcher, Jeddah, Saudi Arabia. ORCID: 0009-0008-5996-2841
-% Working paper, November 2026
+% Working paper, November 2026. DOI: https://doi.org/10.5281/zenodo.23873911
 
 # Abstract
 
@@ -168,7 +168,7 @@ The rawasheen were designed around a regional wind that, as far as a 25 km reana
 
 # 8. Data and code availability
 
-The wind data are ERA5 hourly fields (Hersbach et al., 2020) retrieved on 2 November 2026 through the Open-Meteo Historical Weather API (Zippenfenig, 2024), request: https://archive-api.open-meteo.com/v1/archive?latitude=21.485&longitude=39.186&start_date=1940-01-01&end_date=2025-12-31&hourly=wind_speed_10m,wind_direction_10m&models=era5&wind_speed_unit=ms&timezone=Asia%2FRiyadh. ERA5 contains modified Copernicus Climate Change Service information; neither the European Commission nor ECMWF is responsible for any use made of it. The raw response (`data/openmeteo_era5_albalad_1940_2025.json`), the analysis script (`code/analysis.py`), the Python requirements (`requirements.txt`), all output tables (`tables/`) and the machine-readable summary of quoted numbers (`results.json`) are in the paper's folder. Running `python code/analysis.py` regenerates every number, table and figure. Map tiles are © OpenStreetMap contributors, available under the Open Database Licence. The photograph in Figure 2 is reproduced under CC BY-SA 4.0. The code, tables, figures and paper are openly available at https://github.com/amirator/al-balad-sea-breeze-era5 (code under the MIT licence; text and original figures under CC BY 4.0). The raw ERA5 response (about 21 MB) is not stored in the repository; the script re-downloads it. An archived version will be deposited on Zenodo: DOI [to be added].
+The wind data are ERA5 hourly fields (Hersbach et al., 2020) retrieved on 2 November 2026 through the Open-Meteo Historical Weather API (Zippenfenig, 2024), request: https://archive-api.open-meteo.com/v1/archive?latitude=21.485&longitude=39.186&start_date=1940-01-01&end_date=2025-12-31&hourly=wind_speed_10m,wind_direction_10m&models=era5&wind_speed_unit=ms&timezone=Asia%2FRiyadh. ERA5 contains modified Copernicus Climate Change Service information; neither the European Commission nor ECMWF is responsible for any use made of it. The raw response (`data/openmeteo_era5_albalad_1940_2025.json`), the analysis script (`code/analysis.py`), the Python requirements (`requirements.txt`), all output tables (`tables/`) and the machine-readable summary of quoted numbers (`results.json`) are in the paper's folder. Running `python code/analysis.py` regenerates every number, table and figure. Map tiles are © OpenStreetMap contributors, available under the Open Database Licence. The photograph in Figure 2 is reproduced under CC BY-SA 4.0. The code, tables, figures and paper are openly available at https://github.com/amirator/al-balad-sea-breeze-era5 (code under the MIT licence; text and original figures under CC BY 4.0). The raw ERA5 response (about 21 MB) is not stored in the repository; the script re-downloads it. An archived version is deposited on Zenodo: https://doi.org/10.5281/zenodo.23873911.
 
 # References
 
